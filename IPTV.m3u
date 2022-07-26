@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,TRT1 HD
 http://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="http://one-iptv.com/logoX/francetnt/TF1.png", beIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/193/Image/bein_sport1_250x150_2022.png", beIN SPORTS 1 HD
 http://tv-trt1.medya.trt.com.tr/master_720.m3u8
